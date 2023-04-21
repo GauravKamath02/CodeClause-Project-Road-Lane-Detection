@@ -1,0 +1,5 @@
+# Requirements for Road Lane Detection
+# Usage: pip install -r requirements.txt
+
+opencv-python>=4.6
+numpy>=1.24.2
